@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Amelia, a 3rd year Data Science major at UC San Diego, with a minor in Business Analytics
 <!--
 **yunaxin/yunaxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
